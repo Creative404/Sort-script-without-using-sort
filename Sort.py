@@ -36,3 +36,5 @@ for x in list_to_sort:
         list_to_sort1.append(x)
 Reday_sorted_letters = bubble_sort__string(list_to_sort1)
 print(Reday_sorted_letters)
+
+input("press any key to close")
